@@ -1,0 +1,11 @@
+D:\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.deps.json
+D:\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.json
+D:\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.dev.json
+D:\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.dll
+D:\Exam Preparation\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.pdb
+D:\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csprojResolveAssemblyReference.cache
+D:\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csproj.CoreCompileInputs.cache
+D:\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfoInputs.cache
+D:\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfo.cs
+D:\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.dll
+D:\Exam Preparation\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.pdb
